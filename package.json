@@ -1,0 +1,19 @@
+{
+  "name": "reattutorialspoint",
+  "version": "1.0.0",
+  "description": "practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tapadyuti/ReactTutorialsPoint.git"
+  },
+  "author": "Tapadyuti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tapadyuti/ReactTutorialsPoint/issues"
+  },
+  "homepage": "https://github.com/Tapadyuti/ReactTutorialsPoint#readme"
+}
